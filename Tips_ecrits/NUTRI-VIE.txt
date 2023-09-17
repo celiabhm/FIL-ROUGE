@@ -1,0 +1,44 @@
+NUTRI-VIE 
+
+Nom du site pour Mme Castel, nutritionniste depuis 10 ans, elle souhaite que son activité et ces conseils ne se répendent pas uniquement avec ces clients habituels ou dans sa commune. Elle souhaite se faire connaître d'avantage, ces compétences et élargir ces clients ciblés (+jeune).
+Exactement elle souhaiterai cibler les adolescents en leur proposant des tarifs de consultations attractifs au cabinet, des programmes sur le site internet (personnalisable ou non) et toujours des conseils.
+
+Ces cibles habituels : 
+-Hommes et Femmes de 40 ans à 60 ans 
+
+Ces futurs cibles : 
+-Hommes et Femmes de tout âges
+-Adolescent 
+
+But du site internet : 
+Le but de ce site internet est en premier temps de faire connaître son métier, son cabinet, de cibler d'avantage de client(patient) de tranche d'âge plus jeune.Le but est aussi de transmettre, partager ces conseils mais également elle propose si l'utilisateur s'abonne, un journal qui contient à l'intérieur un programme(sport,repas,infos nutritions..).
+
+
+
+PAGES :
+
+-Accueil.
+-Bien-être (Cuisine/Recettes(+conseils cuisson) et sport).
+-Se soigner (maladies liés à la nutritions, plantes/huiles essentielles).
+-Guide nutritionnel 
+
+FONCTIONNALITES :
+
+	/HAUT DE PAGE/
+-Nom du site 
+-Logo 
+	/MENU/
+-Barre de recherche 
+-Bouton "Abonnez-vous" sur un article de cuisine dans la page bien-être
+-Connexion/Inscription
+-Icônes des réseaux sociaux (footer?) 
+
+	/CORPS DE PAGE/
+-Carrousels avec repas et article présenter en dessous? 
+-Carrousels articles et repas en dessous ? 
+
+	/PIED DE PAGE/
+-Qui sommes-nous ? 
+-Nous contacter 
+-Mention légales
+

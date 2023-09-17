@@ -1,0 +1,29 @@
+header {
+    background-color: rgb(240, 183, 139);
+    text-align: center;
+}
+
+
+
+
+.corps_page {
+    text-align: center;
+    padding: 50px;
+}
+
+h2{
+    padding:20px;
+}
+
+footer {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: solid 3px black;
+    display: flex;
+    justify-content: space-around;
+}
+
+aside{
+    margin-top: 2%;
+}
+

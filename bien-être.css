@@ -1,0 +1,43 @@
+header {
+    background-color: rgb(240, 183, 139);
+    text-align: center;
+}
+
+#slogan {
+    margin: 0;
+}
+
+footer {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: solid 3px black;
+    display: flex;
+    justify-content: space-around;
+}
+
+aside{
+    margin-top: 2%;
+}
+
+.generer{
+    text-align: center;
+}
+
+#button{
+    border-radius: 12px;
+    padding: 10px;
+    margin-bottom:40px;
+}
+
+#button:hover{
+    background-color: #E87E27;
+    color: white;
+}
+
+#plat{
+    border: solid black;
+}
+
+button#button:hover{
+    background-color: #6ab651;
+}

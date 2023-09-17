@@ -1,0 +1,26 @@
+Manquant cahier des charges : 
+
+
+Contraintes techniques : uniquement le choix des langages et préciser si besoin d'extension ou non.
+
+Diagrammes : usercase, ensuite présenter deux fonctionnalités par diagramme (2 séquence (connexion et ajouter) et 2 activité(afficher et ).
+
+Planning et suivi du projet : S'appuyer sur les délais réel.
+
+Aspect et ergonomie : deux parties manquantes
+
+Maquettes : Achever les maquettes de la page d'accueil et la page bien-être.
+
+EN PLUS : 
+DETAILS DU DEVIS
+
+Hébergement : OVHCLOUD 
+-13.19€ TTC / Mois 
+-2 types d'abonnements : cloud web ou performant
+-158.28€TTC à l'année 
+
+Nom de domaine : 
+-Nutri-vie.fr 
+-4€ ou offert selon le pack hébergement que l'on choisi (voir aussi les gb de ram).
+
+Largement capable de générer des idées de repas.

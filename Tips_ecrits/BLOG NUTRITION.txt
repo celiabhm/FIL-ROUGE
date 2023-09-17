@@ -1,0 +1,30 @@
+BLOG NUTRITION 
+
+
+idées en fonctionnalités : 
+
+-Fonction de recherche
+-Système de paiement (abonnement mensuel)
+-Afficher les plus récentes et populaire publication sur la page d'accueil (en forme de carroussel).
+-Système de commentaire (pour les recettes et les articles se soigner)
+-Gestion des comptes utilisateurs
+-Ajout de recette
+
+-générateur de repas en fonction des gouts de chacuns 
+faire cocher a chaque utilisateur les aliments qu'ils ne consomment pas 
+Leur apport en calories qu'ils ont besoin en fonction de leur sexe (femme/homme), de leur age, leur poids et leur taille ou faire juste avec les normes.
+
+-liste de courses en fonction du repas génére 
+
+-possibilité de générer plusieurs repas si l'un ne plait pas 
+
+-détails de ce que chaque aliments apporte au corps humain.
+
+-des conseils(sport,alimentation,maladie) 
+
+
+-Programme de sport 
+
+-Présentation des maladies liées 
+
+

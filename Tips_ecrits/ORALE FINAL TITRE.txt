@@ -1,0 +1,92 @@
+ORALE FINAL TITRE 
+
+
+Les différentes parties : 
+
+-35 minutes de présentation (fortement conseiller en anglais mais pas obligatoire)
+-40 minutes d'entretien technique 
+-15 minutes d'entretien final
+
+La dernière partie durant 15 minutes concerne notre parcours, notre projet (poursuite d'étude ou spécialisation ou bien entamer la vie active).
+Il ne faut pas que notre site soit sur le support, on switchera entre le support et le site afin de montrer le site,le rendu, ces fonctionnalités et ensuite on reviendra sur la diapo, sur une partie du code en lien avec la fonctionnalité.
+Penser a mettre le code sur fond blanc pour être plus lisible ou fond foncé si le jury est au fond de la salle.
+
+Temps total : 1h30
+
+Il faudra également apporter le jour du titre : 
+
+-Notre mémoire (dossier qui contient un ou des projets de l'année)
+-Le dossier professionel (vient compléter ce qui n'ai pas dans le mémoire ni le suport) 
+-Le support de présentation
+
+
+Ce qui ai attendu au minimum sur le projet : 
+
+-1 fonctionnalité front-end 
+-1 fonctionnalité back-end 
+
+Le jury évalue sur : le vocabulaire technique et pro, la posture pro, les fonctionnalités de nos pages.
+
+Conseils: ne pas faire de projet trop long, trop complexe mais plutôt partir sur 1/2 pages a présenter.
+
+Le choix du projet : soit le projet fil rouge uniquement s'il y a du back et du front 
+			   ou bien ce que l'on auras fais en stage / ou mélanger les deux.
+
+Le projet fil rouge doit être achever a 90% lors du départ en stage (octobre).
+Il va falloir également que le support soit achever et travailler (sur le visuel).
+Durant l'oral nous sommes autorisées a avoir un support (des feuilles) afin de prendre deux minutes de réflexion lors des questions du jury.
+Lors des questions, si l'on ne sait pas répondre à une question ne pas paniquer et dire que l'on ne sait pas mais que l'on va rechercher la réponse grâce à tel ou tel moyens.
+
+Conseils: concernant le diagramme, essayer d'être le plus précis possible, de donner les définitions afin de réduire les questions du jury sur la deuxième partie de l'oral.
+
+Attente du jury : Vocabulaire professionel et technique. 
+Code : Bonne pratique, ne pas oublier de commenter son code en anglais.
+
+La tenue lors de l'oral est très importante, avoir une tenue pro, propre, en cohésion avec une présentation.
+Faire attention à la communication non-verbale (ton de la voix,rythme, posture) 
+Attention : ne surtout pas donner l'air d'être fermer (ex : croiser les bras, les jambes).Concernant le dérouler il faut tenir le fil de l'oral et être dynamique.
+
+Le visuel concerne : la posture, la gestuelle, le style (look), et l'expression.
+Le vocal concerne : le ton (être douce), l'intonation (ne pas en faire trop), le volume (ni trop fort ni pas assez), le rythme (pour moi ne pas parler trop vite !!) et la diction (avoir une jolie diction).
+Le verbal concerne : le vocabulaire (pro), la structure(sujet, verbe..), la concision (ne pas s'éparpiller et hors sujet), la correction, et la clareté (le plus clair possible)
+
+SUPPORT: 
+
+Pour réaliser le support on peut utiliser : 
+
+-Canva 
+-Powerpoint
+-Slidesgoogle 
+-PPT
+ou autre du moment ou le support respect les différents points ci-dessous.
+
+-Maximum 2 polices différentes : Arial, Verdana, Calibri.Etre lisible 
+-Taille de la police : pour les titres(32,44) et pour le corps (24,32).
+-Pas trop de textes(le jury ne dois pas lire de texte et avoir toute l'attention porter sur nous).
+-Si besoin de texte mettre des mots clés (pas beaucoup non plus).
+
+-Ne pas oublier le sommaire en début de présentation.
+-Bien organisé le sommaire avec des catégories et des sous catégories(pas obligatoire).
+
+-Ni trop d'informations.
+-Attention aux couleurs : pour le choix des couleurs justificer celui-ci et ne pas utiliser trop de noir, ni trop de blanc, et surtout penser à si l'on met un fond foncé mettre une police plutot clair, faire attention a bien assembler des couleurs entre elles et trouver pourquoi on as assembler celle ci ensemble (chercher le schéma représentatif des couleurs, ce qu'elles veulent dire).Les adaptés en fonction de notre sujet choisi au projet final.
+
+-Pas trop de puces, ou bien les scindé en différents diapos.
+-Utiliser des icones, des images, des dessins afin de préciser les informations et donner une image si besoin.
+
+-Limiter le nombre de diapo 
+-Numéroter les diapos 
+-Les diapos doivent être cohérentes entre elles 
+-Diapos simple coter graphisme 
+-Attention aux fautes d'orthographe et syntaxe 
+-Animation et transition si nécessaire
+-Ajout de vidéos si besoin en petite quantité 
+ 
+Pour le support papier : 
+
+-Uniquement des mots clés (pas beaucoup aussi).
+-Ne pas prendre de grandes feuilles.
+
+ 
+
+
